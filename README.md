@@ -5,7 +5,14 @@ Working with the Personality Insights API from Watosn
 
 * Gain hands-on experience using the Personality Insights API.
 * How can _users_ in marketing businesses utilize the insights from PI API.
-* 
+
+Personalized advertisements works better than non-personalized.
+Personalized advertisement is growing, and fast.
+Can machinelearning aid marketing departments in selecting the right strategy for approaching a person.
+Marketing departements need tools to digest the vast amount of information available.
+Can machinelearning be used to select which marketing strategies should be used with different user segments.
+
+In this project we will dive into the Personality Insights API of IBM Watson. We will look at how this service can be used from a online marketing perspective and dive into details about what the Personality Insights API outputs.
 
 
 
