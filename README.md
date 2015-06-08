@@ -1,7 +1,7 @@
 # DTU-S-2015-Watson
 Working with the Personality Insights API from Watson
 
-# Social media personalities and IBM Watson Personality Insights
+# Enhancing social media data based on cognitive computing
 
 ## Abstract
 
@@ -9,18 +9,8 @@ Through various existing work, it is established that targeted or even personali
 
 ## Learning objectives
 
-* Gain hands-on experience using the Personality Insights API.
-* How can _users_ in marketing businesses utilize the insights from PI API.
-
-How can personality extracted from Tweets be used for personlized advertisement
-Personalized advertisements works better than non-personalized.
-Personalized advertisement is growing, and fast.
-Can machinelearning aid marketing departments in selecting the right strategy for approaching a person.
-Marketing departements need tools to digest the vast amount of information available.
-Can machinelearning be used to select which marketing strategies should be used with different user segments.
-
-In this project we will dive into the Personality Insights API of IBM Watson. We will look at how this service can be used from a online marketing perspective and dive into details about what the Personality Insights API outputs. 
-
+* Correlate aspects of user behavior (e.g. retweet, reply, use #hashtags, whatever) with combinations of personality parameters (open, conscentious, extraversion, agreeable, emotional range) by applying IBM watson personality insights to analyze the user’s previous tweets.
+* Predict whether users are likely to express a specific behavior (e.g. retweet, reply, use #hashtags, whatever) based on current metrics alone vs current metrics plus personality insights.
 
 
 * Intro to machinelearning and Watson
